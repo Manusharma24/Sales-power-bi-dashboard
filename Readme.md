@@ -31,7 +31,8 @@ growth.
 
 ![image alt](https://github.com/Manusharma24/Sales-power-bi-dashboard/blob/4d59b6c386ad03b5d9dc016597723b7ac26c65cb/dashboard_image.png)
 
-**Forcasting Dashboard**
+**Forecasting Dashboard**
+
 ![image alt](https://github.com/Manusharma24/Sales-power-bi-dashboard/blob/63dae3f291242fcb87b744d970ac5378eab72338/forcasting_image.png)
 
 ---
