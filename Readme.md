@@ -29,6 +29,9 @@ growth.
 ---
 <h2><a class="anchor" id="project"></a>Dashbord</h2>
 
+![image alt](https://github.com/Manusharma24/Sales-power-bi-dashboard/blob/4d59b6c386ad03b5d9dc016597723b7ac26c65cb/dashboard_image.png)
+
+**Forcasting Dashboard**
 ![image alt]()
 
 ---
