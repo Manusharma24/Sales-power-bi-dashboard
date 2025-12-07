@@ -41,4 +41,4 @@ growth.
 **Manu Sharma**
 [Linkdin](https://www.linkedin.com/in/manu-sharma-a8a68022a/)
 
-[Email](masharma.706047@gmail.com) : **msharma.706047@gmail.com**
+[Email] : **msharma.706047@gmail.com**
